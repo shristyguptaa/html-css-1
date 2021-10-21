@@ -1,0 +1,35 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <title>Calculator </title>
+        </haed>
+        <style>
+           body {background-color:rgb(241, 222, 222)}
+        </style>
+        <body >      
+           <form>
+               <label for ="fname"> CALCULATOR </label><br>
+               <textarea name="message" rows="4%" cols="33%"></textarea><br>
+               <button type="button" style="min-width: 4%;"> C </button> 
+               <button type="button" style="min-width: 4%;"> ~ </button>
+               <button type="button" style="min-width: 4%;"> % </button>
+               <button type="button" style="min-width: 4%;"> /</button><br>
+               <button type="button" style="min-width: 4%;"> 7 </button> 
+               <button type="button" style="min-width: 4%;"> 8 </button>
+               <button type="button" style="min-width: 4%;"> 9 </button>
+               <button type="button" style="min-width: 4%;"> * </button><br>
+               <button type="button" style="min-width: 4%;"> 4 </button>
+               <button type="button" style="min-width: 4%;"> 5 </button>
+               <button type="button" style="min-width: 4%;"> 6 </button>
+               <button type="button" style="min-width: 4%;"> - </button><br>
+               <button type="button" style="min-width: 4%;"> 1 </button>
+               <button type="button" style="min-width: 4%;"> 2 </button>
+               <button type="button" style="min-width: 4%;"> 3 </button>
+               <button type="button" style="min-width: 4%;"> + </button><br>
+               <button type="button" style="min-width: 4%;"> 00 </button>
+               <button type="button" style="min-width: 4%;"> 0 </button>
+               <button type="button" style="min-width: 4%;"> . </button>
+               <button type="button" style="min-width: 4%;"> = </button>
+           </form> 
+        </body>
+    </html>
